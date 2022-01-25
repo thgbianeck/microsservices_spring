@@ -3,6 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/Microsservices.iml" filepath="$PROJECT_DIR$/.idea/Microsservices.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-servicio-item/springboot-servicio-item.iml" filepath="$PROJECT_DIR$/springboot-servicio-item/springboot-servicio-item.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-servicio-productos/springboot-servicio-productos.iml" filepath="$PROJECT_DIR$/springboot-servicio-productos/springboot-servicio-productos.iml" />
     </modules>
   </component>
 </project>
